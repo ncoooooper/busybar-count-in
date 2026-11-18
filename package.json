@@ -1,7 +1,7 @@
 {
   "name": "busybar-count-in",
   "private": true,
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Count silent bars at your tempo and show the exact beat where you should enter.",
   "author": "ncoooooper",
   "type": "module",

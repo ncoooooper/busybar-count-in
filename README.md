@@ -4,6 +4,20 @@ Count silent bars at your tempo and show the exact beat where you should enter.
 
 Put a silent count-in where the ensemble can see it. The bars and meter determine exactly how many pulses pass before the entrance, with no click track leaking into the room recording.
 
+## Screen transitions
+
+Choose the meter, set the lead-in and start the count. The beat marks carry the entrance.
+
+![Count In front display. Choose the meter, set the lead-in and start the count. The beat marks carry the entrance.](media/guide/screen-transitions.gif)
+
+<details>
+
+<summary>Watch the rear display</summary>
+
+![Count In rear display during the recorded controls](media/guide/screen-transitions-rear.gif)
+
+</details>
+
 ## Set the meter and lead-in
 
 1. Turn the wheel on **TEMPO** to select the pulse rate. Click to choose **BARS** and turn to set the length.
@@ -34,6 +48,6 @@ Open BUSY Bar Emulator. From this repository, run:
 
 Press **Back** to exit.
 
-The GIFs are excerpts from the emulator recording. Each front-display pixel is shown at 9× its original width and height. The end frames pause for reading.
+The GIFs are excerpts from the emulator recording. Each LED occupies a 16 × 16 cell with a black border. The end frames pause for reading.
 
 [Full recording](media/controls.mp4) · [Rear display](screenshots/back-1.png) · [Firmware test](EMULATOR-QA.md) · [MIT license](LICENSE)
