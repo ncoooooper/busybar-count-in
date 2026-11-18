@@ -4,6 +4,6 @@
   "name": "Count In",
   "version": "0.1.0",
   "api_version": "27.12.0",
-  "description": "Count In",
+  "description": "Count silent bars at your tempo and show the exact beat where you should enter.",
   "author": "ncoooooper"
 }

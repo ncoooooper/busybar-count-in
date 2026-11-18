@@ -1,0 +1,16 @@
+{
+  "id": "BB-043",
+  "source": "Firmware wall clock and manually selected meter and bars.",
+  "scenario": "Selected a one-bar count in 3/4, started the count and watched it reach GO after three beats.",
+  "keys": [
+    "ok",
+    "down",
+    "ok",
+    "down",
+    "start"
+  ],
+  "frames": 54,
+  "distinct_frames": 21,
+  "exit": "App io.ncoooooper.countin exited: finished; heap peak 81.7 of 128 KiB",
+  "sha256": "95bc967d8b90f1074756b6a36fb01d578ab9586460725c66bae57ce73feeb262"
+}

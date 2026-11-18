@@ -1,0 +1,6 @@
+{
+  "category": "music",
+  "short_description": "Count silent bars at your tempo and show the exact beat where you should enter.",
+  "description": "Count silent bars at your tempo and show the exact beat where you should enter. The wheel adjusts tempo (30–240 marked beats per minute), bars (1–32) or meter. Click changes fields. Start begins or stops the count. In 6/8 the marked beat is an eighth note. GO stays visible after the last silent beat until the next action.",
+  "changelog": "First public version."
+}
